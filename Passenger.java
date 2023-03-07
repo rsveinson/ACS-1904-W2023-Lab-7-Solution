@@ -1,4 +1,4 @@
-
+        
 /**
  * Passenger interface: supplies required methods for name and fareTyep
  *                      for potential passengers on the Planet Express Train
